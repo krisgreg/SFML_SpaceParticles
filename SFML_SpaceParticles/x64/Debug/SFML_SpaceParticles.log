@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\kristian\source\repos\sfml_spaceparticles\sfml_spaceparticles\source.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SFML_SpaceParticles.vcxproj -> C:\Users\Kristian\source\repos\SFML_SpaceParticles\x64\Debug\SFML_SpaceParticles.exe
